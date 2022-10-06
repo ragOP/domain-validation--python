@@ -2,7 +2,7 @@ name=[]
 Email=[]
 age=[]
 phone_number=[8447648730,9006123123]
-test_str = 'afifa.noor@bibs.co.in'
+test_str = 'raghib@bibs.co.in'
 res = test_str[test_str.index('@') + 1 : ]
 
 print("The extracted domain name : " +str(res))
